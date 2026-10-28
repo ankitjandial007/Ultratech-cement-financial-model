@@ -29,6 +29,10 @@
 - ₹47,400 Cr of capex for ~70 mtpa of new capacity, funded ~1.9× by operating cash flow.
 - Margin pressure of ~240 bps as raw-material inflation (+5% p.a.) outpaces pricing (+2% p.a.).
 
+**Driver-based forecast: capacity → volume → revenue → cost per tonne → EBITDA**
+
+![Ops forecast](Images/ops_forecast.png)
+
 ## Model structure
 
 | Sheet | What it does |
@@ -49,6 +53,8 @@
 - One formula per row across all years; no hardcoded numbers inside formulas
 - Balance sheet balances in every year; cash flow closing cash ties to the balance sheet
 - Every input has a source in the model's source column
+
+![Model checks](Images/checks.png)
 
 **Price paid vs building new capacity**
 
