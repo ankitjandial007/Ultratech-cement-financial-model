@@ -4,7 +4,7 @@
 
 **Status:** Three-statement model ✅ · Acquisition analysis ✅ · WACC & DCF valuation 🔄 in progress · Scenarios 🔄 in progress
 
-![Cover](images/cover.png)
+![Cover](Images/cover_page.png)
 
 ## Key findings so far
 
@@ -50,7 +50,13 @@
 - Balance sheet balances in every year; cash flow closing cash ties to the balance sheet
 - Every input has a source in the model's source column
 
-![Acquisition analysis](images/acquisition.png)
+**Price paid vs building new capacity**
+
+![Acquisition – price](Images/acquisition_price.png)
+
+**Returns under turnaround scenarios**
+
+![Acquisition – returns](Images/acquisition_returns.png)
 
 ## Sources
 - UltraTech Cement annual reports FY22–FY26 and Q4 investor presentations FY23–FY26
@@ -58,6 +64,6 @@
 - Damodaran country risk premiums; CRISIL and ICRA industry reports
 
 ## Author
-**Ankit Jandial** – B.Tech, Punjab Engineering College · [LinkedIn](https://linkedin.com/in/ankit-jandial)
+**Ankit Jandial** · [LinkedIn](https://linkedin.com/in/ankit-jandial)
 
 *For educational purposes only; not investment advice.*
